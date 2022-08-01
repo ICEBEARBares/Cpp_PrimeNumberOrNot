@@ -1,4 +1,4 @@
-# Cpp_PrimeNumber-
+# Cpp_PrimeNumberOrNot
 "This Code Can Check The Number That The Prime Number Or NOT?"
 
 - Created By Krerkkiat Wattanaporn
